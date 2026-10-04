@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">151115-TMS</string>
+    <string name="app_title">TENANT MANAGEMENT SYSTEM</string>
+    <string name="tenant_name_label">Tenant Name</string>
+    <string name="tenant_name_hint">Enter tenant name</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="phone_hint">Enter phone number</string>
+    <string name="rent_hint">Enter Rent Paid</string>
+    <string name="save_button">SAVE</string>
+    <string name="tenant_result_placeholder">Saved tenant will appear here</string>
+</resources>
